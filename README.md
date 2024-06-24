@@ -1,4 +1,4 @@
-# Yelp Rating Review Project Summary
+# Yelp Review Rating Project Summary
 Cynthia Du, Meiyi Ye, Nam Truong
 
 > [!IMPORTANT]
